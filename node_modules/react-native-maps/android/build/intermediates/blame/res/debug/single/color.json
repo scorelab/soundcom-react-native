@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]

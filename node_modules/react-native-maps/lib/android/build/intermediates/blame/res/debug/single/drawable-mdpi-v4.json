@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/gabriel_peal/repos/react-native-maps/lib/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/gabriel_peal/.android/build-cache/e64e56106b67abe383dbcb695ff57b19d3e9fc51/output/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/gabriel_peal/repos/react-native-maps/lib/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/gabriel_peal/.android/build-cache/e64e56106b67abe383dbcb695ff57b19d3e9fc51/output/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/gabriel_peal/repos/react-native-maps/lib/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/gabriel_peal/.android/build-cache/e64e56106b67abe383dbcb695ff57b19d3e9fc51/output/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/gabriel_peal/repos/react-native-maps/lib/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/gabriel_peal/.android/build-cache/e64e56106b67abe383dbcb695ff57b19d3e9fc51/output/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/gabriel_peal/repos/react-native-maps/lib/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/gabriel_peal/.android/build-cache/e64e56106b67abe383dbcb695ff57b19d3e9fc51/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/gabriel_peal/repos/react-native-maps/lib/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/gabriel_peal/.android/build-cache/e64e56106b67abe383dbcb695ff57b19d3e9fc51/output/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    }
+]
