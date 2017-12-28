@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="imagepipeline-base-1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/3c20847ed7f9e1358a91c1d08b56832d9d92e2ba/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/3c20847ed7f9e1358a91c1d08b56832d9d92e2ba/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/imagepipeline-base/1.0.1/e83610a54320cf1b967d3224b293cd0d9c193272/imagepipeline-base-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

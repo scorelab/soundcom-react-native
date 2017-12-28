@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/a156687ad86bda75a6dc41f477a6dc4108b41635/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_5a8a4d62e2e15cd78631bb0472688b83d3175de1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/c92ca9a8d93a6595fd99551216695e190d477c74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_e905425a0e62d92d233881b3b84e9badbeeac877.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/7b8c1309f4e1717dfb4c5b7e352c0ec454adc91a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_8ef117da5b3ea44f6c3aad04edc133a9f1170457.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/92912ab04f0e33912aedc1565072eb962032af60/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_f21b48a264ac37830a3b76736583b40ea695dc28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_908662950f3ef270ee237cc229ed5e4d8a7804e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/6c252604d89d98914f9932b98a3c2392abb18e85/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_21eadced576bf90e65f63ad363be7fbf82fb96cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/2bbcff8b43e4890bde47049fd807c588a9bfa63b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_8c943148edf2a5f00b9fea3e09b7b3db99da2b1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/e316a1c1a30eb49eb2e35bea13742b4a51968e1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_835a7465f4d9ec42800fff19e37268e05cc0abb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_87ce54ace96bcb4f43a3f672a226f9d46f406c08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/84e9700e31e12d099ecf46389c6716d90779119d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_ddfcdd46551c6c0fc0367481db6f668580c1681a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_753d39f89d3c69bf77fb07d8ea0993d06a3f48db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/7aa7bb76ee396453cf3cb85a808dbc8a5704298c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_ec441e74a796ce1c7979588719596538a1ace7d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/e64e56106b67abe383dbcb695ff57b19d3e9fc51/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_031eedbb5bb4f703100cde52fab1603b26d3f659.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/879d37d472c50dca181dfe0a36fcc6743314eb2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_f280a9da6ec7e112edaf1034d2daa9004c6fae68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7be04c46a71ea9481e1b556e00f8187e8f0eaff1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/277cbd48de33ab72025e18a17161bce49ab0dedf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_ba818312c38e68ad4f7a4f81c900635634573198.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/01483aa7673ac8e253711de1d81da01a1a94bf44/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_686191b7fa6cb3905b3fa2483ef71b9c3605785a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_4ec61897c491b97b3b63e39bcf102fb1759ec42b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/37568486995613c244a9b4ea4579b219b1c0e454/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_dd839ab6523179109d7eb25bf97fe7d517886848.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/b84311ed67ecfe3f81aaaf16959ced097998b744/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_e300edff361c5325806bc9932a4c55e355fac625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/6c0536511acd104eff57da43d36ef423c81fb6c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_efa06088b0f7cdbce1aeeb29a67610d3070a043a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/5a45250d10550b919f8210ad82d9355854ea1e03/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_b494a1c39521825ad4327e9c24dd9171076ffbeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/repos/react-native-maps/lib/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aba10534054e3fa491d7059bb71895c1b5d9c457">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_fdf4cc4e7a7b3d122a092e468df4b9ff291c1032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_8cd731bd09738d281d6c4a2f5b6d18602e6762ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/5d61ca23902523198e77ecd54ea20d484156d55d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_5abda5f648c34f0f04b62d6b9ffb66891fc88e44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/37ec93244e8b1afcd926136d33658ba83a5d719d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_9276d415292c355df028926c89085a47eecf93e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_fcfe544a0638380c91955e9d8e4670a8262a1bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_30db76abb70c20b2937a736b2aa414547b73e622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_ef708340e7b94d2ddfb54e841eb8f94274934798.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/bcf4df5af93bd8591f28014cf60041dece6e28fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_a58a0eb1203ece5249e2c9b9a4b187c3d923d37f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/gabriel_peal/.android/build-cache/3a82f9a4dc368b26857071e9ed5770e3d61a4c3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/gabriel_peal/repos/react-native-maps/example/android/app/build/intermediates/pre-dexed/debug/classes_c50a6c3da4a8e02851f8eaa7fb9292978fb8684d.jar" />
+    </item>
+
+</items>

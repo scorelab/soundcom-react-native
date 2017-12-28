@@ -1,0 +1,330 @@
+[
+    {
+        "outputFile": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sr/values-sr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 107,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sr/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 283,
+                        "endColumn": 103,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 187,
+                    "endOffset": 396
+                },
+                "from": {
+                    "file": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sr/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 387,
+                        "endColumn": 187,
+                        "endOffset": 574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 401,
+                    "endColumn": 127,
+                    "endOffset": 524
+                },
+                "from": {
+                    "file": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sr/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 575,
+                        "endColumn": 123,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 529,
+                    "endColumn": 111,
+                    "endOffset": 636
+                },
+                "from": {
+                    "file": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sr/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 699,
+                        "endColumn": 107,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 641,
+                    "endColumn": 212,
+                    "endOffset": 849
+                },
+                "from": {
+                    "file": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sr/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 807,
+                        "endColumn": 212,
+                        "endOffset": 1019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 854,
+                    "endColumn": 128,
+                    "endOffset": 978
+                },
+                "from": {
+                    "file": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sr/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 1020,
+                        "endColumn": 124,
+                        "endOffset": 1144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 983,
+                    "endColumn": 130,
+                    "endOffset": 1109
+                },
+                "from": {
+                    "file": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sr/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1145,
+                        "endColumn": 126,
+                        "endOffset": 1271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1114,
+                    "endColumn": 189,
+                    "endOffset": 1299
+                },
+                "from": {
+                    "file": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/res/values-sr/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 189,
+                        "endOffset": 474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1304,
+                    "endColumn": 207,
+                    "endOffset": 1507
+                },
+                "from": {
+                    "file": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sr/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1272,
+                        "endColumn": 207,
+                        "endOffset": 1479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1512,
+                    "endColumn": 108,
+                    "endOffset": 1616
+                },
+                "from": {
+                    "file": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sr/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1480,
+                        "endColumn": 104,
+                        "endOffset": 1584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1621,
+                    "endColumn": 190,
+                    "endOffset": 1807
+                },
+                "from": {
+                    "file": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sr/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1585,
+                        "endColumn": 190,
+                        "endOffset": 1775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1812,
+                    "endColumn": 128,
+                    "endOffset": 1936
+                },
+                "from": {
+                    "file": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sr/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1776,
+                        "endColumn": 124,
+                        "endOffset": 1900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1941,
+                    "endColumn": 207,
+                    "endOffset": 2144
+                },
+                "from": {
+                    "file": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sr/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1901,
+                        "endColumn": 207,
+                        "endOffset": 2108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2149,
+                    "endColumn": 171,
+                    "endOffset": 2316
+                },
+                "from": {
+                    "file": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sr/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2109,
+                        "endColumn": 167,
+                        "endOffset": 2276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2321,
+                    "endColumn": 97,
+                    "endOffset": 2414
+                },
+                "from": {
+                    "file": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sr/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2277,
+                        "endColumn": 93,
+                        "endOffset": 2370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2419,
+                    "endColumn": 94,
+                    "endOffset": 2509
+                },
+                "from": {
+                    "file": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sr/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2371,
+                        "endColumn": 90,
+                        "endOffset": 2461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2514,
+                    "endColumn": 108,
+                    "endOffset": 2618
+                },
+                "from": {
+                    "file": "/Users/gabriel_peal/repos/react-native-maps/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/values-sr/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2462,
+                        "endColumn": 104,
+                        "endOffset": 2566
+                    }
+                }
+            }
+        ]
+    }
+]
